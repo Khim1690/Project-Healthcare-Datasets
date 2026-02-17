@@ -1,10 +1,10 @@
 # HealthCare Datasets-projects
 
-### Why I Did This Project
+### This projects is about analyzing the healthcare datasets to find the patterns of Revenue,costs for patients and finding different KPI's that have a direct connection to the daily healthcare operation. 
 
-I wanted to explore healthcare data because hospital billing and patient stay patterns are interesting real-world problems. Healthcare data can be complex, so I used this project to practice analyzing real structured data.
 
-### What This Project Is About
+
+### Process
 
  I analyzed healthcare data to understand relationships between:
 
@@ -14,7 +14,7 @@ I wanted to explore healthcare data because hospital billing and patient stay pa
 
 (3) Patient-related variables
 
-I wanted to see if longer stays really mean higher bills and how different factors affect cost.
+
 
 ### Tools I Used
 
@@ -30,19 +30,9 @@ Seaborn
 
 Jupyter Notebook
 
-### What I Did
-
-Loaded the dataset
-
-Checked for missing values
-
-Cleaned incorrect data
 
 
-Explored relationships between variables
 
-For example:
-I created a box plot between length of stay and billing amount to see if there was a pattern.
 
 
 
@@ -61,7 +51,7 @@ I created a box plot between length of stay and billing amount to see if there w
 📷 
 <img width="1261" height="974" alt="Screenshot 2026-02-15 171850" src="https://github.com/user-attachments/assets/654ff92e-c5c1-4a9d-a5e3-f7ff7b66ac0c" />
 
-### What I Learned
+### Learned
 
 Healthcare data can be messy and complex. I learned how to look for relationships between variables instead of just looking at numbers.
 
